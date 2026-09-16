@@ -1,6 +1,6 @@
 ## Hi, I'm Karan 👋
 
-Full stack developer based in Canada. I build self-hostable web apps, tools for the
+Full stack developer and Mechanical Engineer based in Canada. I build self-hostable web apps, tools for the
 Bluesky / AT Protocol ecosystem, and small utilities that make Linux on the desktop
 a bit nicer.
 
