@@ -14,15 +14,17 @@ web app with no account needed; owners manage reservations, tables and branding 
 one dashboard. Ships as a single Docker Compose stack.<br>
 <sub>.NET · EF Core · Expo / React Native · Docker</sub>
 
-**Navyfragen** · [navyfragen.app](https://navyfragen.app)<br>
+**kodamachi** · [navyfragen.app](https://navyfragen.app)<br>
 Anonymous Q&A for Bluesky, similar to NGL or CuriousCat. Receive questions
-anonymously and post your answers straight to your Bluesky feed.<br>
+anonymously and post your answers straight to your Bluesky feed. Formerly
+Navyfragen; the domain follows the name shortly.<br>
 <sub>TypeScript · Bun · AT Protocol</sub>
 
-**[Total War Warhammer Tournament App](https://github.com/karanshukla/totalwarhammer-tournament-app)** · [twtournament.app](https://twtournament.app)<br>
-Organise tournaments and brackets for the Total War: Warhammer games, with beta
-support for Dawn of War and other 40k titles.<br>
-<sub>TypeScript · Node.js</sub>
+**[waydroid-tray](https://github.com/karanshukla/waydroid-tray)**<br>
+A KDE Plasma tray icon for Waydroid, which doesn't ship one of its own. Shows
+whether the Android session is stopped, frozen or running, starts and stops it,
+and launches installed Android apps from the panel.<br>
+<sub>Rust · KDE Plasma · D-Bus</sub>
 
 **[asher-cli](https://github.com/karanshukla/asher-cli)** · [PyPI](https://pypi.org/project/asher-cli/)<br>
 Monitor and manage a Litter-Robot from the terminal, with a text interface and
@@ -33,9 +35,6 @@ animated ASCII cats.<br>
 
 - **[vinoWhisper](https://github.com/karanshukla/vinoWhisper)**: local live captioning
   on Fedora/KDE, running Whisper on the NPU via OpenVINO GenAI. <sub>Python</sub>
-- **[waydroid-tray](https://github.com/karanshukla/waydroid-tray)**: a KDE Plasma tray
-  icon for Waydroid that shows session state, starts and stops it, and launches apps.
-  <sub>Rust</sub>
 
 ### Just for fun
 
