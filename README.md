@@ -14,10 +14,10 @@ web app with no account needed; owners manage reservations, tables and branding 
 one dashboard. Ships as a single Docker Compose stack.<br>
 <sub>.NET · EF Core · Expo / React Native · Docker</sub>
 
-**kodamachi** · [navyfragen.app](https://navyfragen.app)<br>
+**kodamachi** · [navyfragen.app](https://kodamachi.app)<br>
 Anonymous Q&A for Bluesky, similar to NGL or CuriousCat. Receive questions
 anonymously and post your answers straight to your Bluesky feed. Formerly
-Navyfragen; the domain follows the name shortly.<br>
+Navyfragen.<br>
 <sub>TypeScript · Bun · AT Protocol</sub>
 
 **[waydroid-tray](https://github.com/karanshukla/waydroid-tray)**<br>
@@ -35,6 +35,16 @@ animated ASCII cats.<br>
 
 - **[vinoWhisper](https://github.com/karanshukla/vinoWhisper)**: local live captioning
   on Fedora/KDE, running Whisper on the NPU via OpenVINO GenAI. <sub>Python</sub>
+
+### Package Manager links
+
+**[PyPI](https://pypi.org/project/asher-cli/)**
+
+**[Node Package Manager](https://pypi.org/project/asher-cli/)**
+
+**[Composer](https://packagist.org/packages/karanshukla/)**
+
+**[Rust Crates](https://crates.io/users/karanshukla)**
 
 ### Just for fun
 
