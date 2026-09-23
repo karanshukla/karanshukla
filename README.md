@@ -14,7 +14,7 @@ web app with no account needed; owners manage reservations, tables and branding 
 one dashboard. Ships as a single Docker Compose stack.<br>
 <sub>.NET · EF Core · Expo / React Native · Docker</sub>
 
-**kodamachi** · [navyfragen.app](https://kodamachi.app)<br>
+**[kodamachi]** · [kodamachi.app](https://kodamachi.app)<br>
 Anonymous Q&A for Bluesky, similar to NGL or CuriousCat. Receive questions
 anonymously and post your answers straight to your Bluesky feed. Formerly
 Navyfragen.<br>
