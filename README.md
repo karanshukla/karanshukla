@@ -33,7 +33,7 @@ animated ASCII cats.<br>
 
 ### Linux desktop
 
-- **[vinoWhisper](https://github.com/karanshukla/vinoWhisper)**: local live captioning
+**[vinoWhisper](https://github.com/karanshukla/vinoWhisper)**: local live captioning
   on Fedora/KDE, running Whisper on the NPU via OpenVINO GenAI. <sub>Python</sub>
 
 ### Package Manager links
