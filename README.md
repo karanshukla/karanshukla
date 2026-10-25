@@ -64,12 +64,9 @@ Your laptop probably has an AI chip in it that nothing uses. These put it to wor
 
 Stuff I've sent patches to, because I was using it and something bugged me.
 
-- **[thermald](https://github.com/intel/thermal_daemon)** and **[intel-lpmd](https://github.com/intel/intel-lpmd)**: Intel's thermal and low power daemons. Taught them about a newer chip, and that a missing table entry is not a missing feature.
+- **[intel-lpmd](https://github.com/intel/intel-lpmd)**: Intel's low power daemon. Taught it about a newer chip.
 - **[heron](https://github.com/tunjid/heron)**: a lovely Bluesky client for Android, iOS and desktop. Notification and video upload fixes.
 - **[gaze](https://github.com/GunduLabs/gaze)**: face login for Linux. Build cleanup.
-- **[openeffects](https://github.com/funinkina/openeffects)**: webcam effects for Linux. Hand masking, a new GUI, and an NPU build, which turned into vinoOpenEffects.
-- **[libphpsky](https://github.com/aazsamir/libphpsky)**: Bluesky for PHP. Added service auth, so feeds can check who is asking.
-- **[openvino-rs](https://github.com/intel/openvino-rs)**: Rust bindings for OpenVINO. Loading a model straight from a file.
 - **[mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp)**: baseball stats for your AI assistant. A few silent-failure fixes.
 
 ## 📦 Installable bits
