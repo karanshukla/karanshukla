@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="470" viewBox="0 0 880 470" role="img" aria-label="A fastfetch-style terminal card for Karan Shukla: Fedora and KDE Plasma user in Canada, full stack developer and mechanical engineer, writing Rust, TypeScript, PHP, Python and .NET, with local AI on the Intel NPU and the AT Protocol.">
+  <defs>
+    <style>
+      .mono { white-space: pre; font-family: "Fira Code", "JetBrains Mono", "Cascadia Code", "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+      .k   { fill: #56cc78; font-weight: 700; }
+      .v   { fill: #fafafa; }
+      .d   { fill: #a0a4ac; }
+      .p   { fill: #0085ff; }
+      .a   { fill: #ffab40; }
+      .r   { fill: #ff5252; }
+      .cat { fill: #56cc78; }
+      .title { fill: #a0a4ac; font-size: 13px; }
+      .line { opacity: 0; animation: fadein 0.35s ease-out forwards; }
+      @keyframes fadein { to { opacity: 1; } }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) {
+        .line { animation: none; opacity: 1; }
+        .cursor { animation: none; }
+      }
+    </style>
+    <linearGradient id="edge" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#56cc78"/>
+      <stop offset="0.5" stop-color="#0085ff"/>
+      <stop offset="1" stop-color="#ffab40"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="0.5" y="0.5" width="879" height="469" rx="14"/></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="879" height="469" rx="14" fill="#0e0e10" stroke="#2a2d33"/>
+  <rect x="0.5" y="0.5" width="879" height="40" rx="14" fill="#16181d" clip-path="url(#card)"/>
+  <rect x="0.5" y="26" width="879" height="15" fill="#16181d"/>
+  <line x1="0.5" y1="40.5" x2="879.5" y2="40.5" stroke="#2a2d33"/>
+  <circle cx="22" cy="20.5" r="6" fill="#ff5252"/>
+  <circle cx="42" cy="20.5" r="6" fill="#ffab40"/>
+  <circle cx="62" cy="20.5" r="6" fill="#56cc78"/>
+  <text x="440" y="25" text-anchor="middle" class="mono title">karan@fedora: ~</text>
+  <rect x="0.5" y="466" width="879" height="3.5" fill="url(#edge)" clip-path="url(#card)"/>
+
+  <!-- prompt -->
+  <g class="mono" transform="translate(28 70)">
+    <text><tspan class="k">❯</tspan> <tspan class="v">fastfetch</tspan> <tspan class="d">--logo cat</tspan></text>
+  </g>
+
+  <!-- ascii cat -->
+  <g class="mono cat" transform="translate(40 118)" xml:space="preserve">
+    <text class="line" style="animation-delay:0.10s" y="0"  >      /\_____/\</text>
+    <text class="line" style="animation-delay:0.15s" y="22" >     /  o   o  \</text>
+    <text class="line" style="animation-delay:0.20s" y="44" >    ( ==  ^  == )</text>
+    <text class="line" style="animation-delay:0.25s" y="66" >     )         (</text>
+    <text class="line" style="animation-delay:0.30s" y="88" >    (           )</text>
+    <text class="line" style="animation-delay:0.35s" y="110">   ( (  )   (  ) )</text>
+    <text class="line" style="animation-delay:0.40s" y="132">  (__(__)___(__)__)</text>
+    <text class="line d" style="animation-delay:0.45s" y="176">  meow. nothing leaves</text>
+    <text class="line d" style="animation-delay:0.50s" y="198">  this machine.</text>
+  </g>
+
+  <!-- info -->
+  <g class="mono" transform="translate(300 118)" xml:space="preserve">
+    <text class="line" style="animation-delay:0.10s" y="0"><tspan class="k">karan</tspan><tspan class="v">@</tspan><tspan class="k">karanshukla.ca</tspan></text>
+    <text class="line d" style="animation-delay:0.15s" y="22">────────────────────</text>
+    <text class="line" style="animation-delay:0.20s" y="48"><tspan class="k">OS</tspan><tspan x="112" class="v">Fedora Linux, KDE Plasma</tspan></text>
+    <text class="line" style="animation-delay:0.25s" y="70"><tspan class="k">Host</tspan><tspan x="112" class="v">Canada (UTC-4)</tspan></text>
+    <text class="line" style="animation-delay:0.30s" y="92"><tspan class="k">Shell</tspan><tspan x="112" class="v">full stack dev / mechanical engineer</tspan></text>
+    <text class="line" style="animation-delay:0.35s" y="114"><tspan class="k">Kernel</tspan><tspan x="112" class="v">Rust · TypeScript · PHP · Python · .NET</tspan></text>
+    <text class="line" style="animation-delay:0.40s" y="136"><tspan class="k">WM</tspan><tspan x="112" class="v">self-hosted · local-first · open source</tspan></text>
+    <text class="line" style="animation-delay:0.45s" y="158"><tspan class="k">NPU</tspan><tspan x="112" class="v">Intel, via OpenVINO </tspan><tspan class="d">(the vino projects)</tspan></text>
+    <text class="line" style="animation-delay:0.50s" y="180"><tspan class="k">Protocol</tspan><tspan x="112" class="p">AT Protocol / Bluesky</tspan></text>
+    <text class="line" style="animation-delay:0.55s" y="202"><tspan class="k">Packages</tspan><tspan x="112" class="v">3 (pypi), 2 (cargo), 1 (npm), 1 (composer)</tspan></text>
+    <text class="line" style="animation-delay:0.60s" y="224"><tspan class="k">Litter</tspan><tspan x="112" class="v">Robot online, drawer 12% </tspan><tspan class="d">(asher-cli)</tspan></text>
+    <text class="line" style="animation-delay:0.65s" y="246"><tspan class="k">Theme</tspan><tspan x="112" class="v">vino dark </tspan><tspan class="d">[#0e0e10 / </tspan><tspan class="k">#56cc78</tspan><tspan class="d">]</tspan></text>
+    <text class="line" style="animation-delay:0.70s" y="268"><tspan class="k">Baseball</tspan><tspan x="112" class="p">Blue Jays</tspan><tspan class="d">, tragically</tspan></text>
+
+    <!-- colour blocks, neofetch style -->
+    <g class="line" style="animation-delay:0.80s" transform="translate(0 288)">
+      <rect x="0"   y="0" width="34" height="16" fill="#0e0e10" stroke="#2a2d33"/>
+      <rect x="34"  y="0" width="34" height="16" fill="#ff5252"/>
+      <rect x="68"  y="0" width="34" height="16" fill="#56cc78"/>
+      <rect x="102" y="0" width="34" height="16" fill="#ffab40"/>
+      <rect x="136" y="0" width="34" height="16" fill="#0085ff"/>
+      <rect x="170" y="0" width="34" height="16" fill="#c678dd"/>
+      <rect x="204" y="0" width="34" height="16" fill="#56b6c2"/>
+      <rect x="238" y="0" width="34" height="16" fill="#fafafa"/>
+    </g>
+    <g class="line" style="animation-delay:0.85s" transform="translate(0 304)">
+      <rect x="0"   y="0" width="34" height="16" fill="#2a2d33"/>
+      <rect x="34"  y="0" width="34" height="16" fill="#ff8a80"/>
+      <rect x="68"  y="0" width="34" height="16" fill="#a6e22e"/>
+      <rect x="102" y="0" width="34" height="16" fill="#ffd180"/>
+      <rect x="136" y="0" width="34" height="16" fill="#4ea3ff"/>
+      <rect x="170" y="0" width="34" height="16" fill="#e0a3ff"/>
+      <rect x="204" y="0" width="34" height="16" fill="#8be9fd"/>
+      <rect x="238" y="0" width="34" height="16" fill="#ffffff"/>
+    </g>
+  </g>
+
+  <!-- next prompt + blinking cursor -->
+  <g class="mono" transform="translate(28 452)">
+    <text><tspan class="k">❯</tspan> </text>
+    <rect class="cursor" x="22" y="-13" width="9" height="16" fill="#56cc78"/>
+  </g>
+</svg>
