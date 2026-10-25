@@ -49,6 +49,10 @@ Your laptop probably has an AI chip in it that nothing uses. These put it to wor
 - **[waydroid-tray](https://github.com/karanshukla/waydroid-tray)**: a tray icon for Waydroid, because it never had one.
 - **[karanshukla.ca](https://github.com/karanshukla/karanshukla.ca)**: my site. It shows what I'm listening to and writes its own changelog.
 
+## 🎮 Games
+
+- **[totalwarhammer-tournament-app](https://github.com/karanshukla/totalwarhammer-tournament-app)**: ran Total War: Warhammer tournaments for a while. Archived now, but it still works.
+
 ## 🐱 Cats
 
 - **[asher-cli](https://github.com/karanshukla/asher-cli)**: check on the Litter-Robot from the terminal, with animated ASCII cats. Named after the cat.
@@ -59,17 +63,6 @@ Your laptop probably has an AI chip in it that nothing uses. These put it to wor
 ## 📦 Installable bits
 
 [PyPI](https://pypi.org/user/karanshukla/) · [crates.io](https://crates.io/users/karanshukla) · [npm](https://www.npmjs.com/~karanshukla) · [Packagist](https://packagist.org/users/karanshukla/)
-
-<div align="center">
-
-<a href="https://github.com/karanshukla?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanshukla&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0e0e10&title_color=56cc78&icon_color=56cc78&text_color=fafafa&ring_color=56cc78&hide_title=true" alt="GitHub stats" height="165">
-</a>
-<a href="https://github.com/karanshukla?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanshukla&layout=compact&langs_count=8&hide_border=true&bg_color=0e0e10&title_color=56cc78&text_color=fafafa&hide=css,html,scss,shell" alt="Most used languages" height="165">
-</a>
-
-</div>
 
 <div align="center">
 <sub>Everything is MIT unless a repo says otherwise. I also write sometimes, over on <a href="https://karanshukla.ca">karanshukla.ca</a>.</sub>
