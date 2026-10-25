@@ -64,7 +64,7 @@ Your laptop probably has an AI chip in it that nothing uses. These put it to wor
 
 Stuff I've sent patches to, because I was using it and something bugged me.
 
-- **[intel-lpmd](https://github.com/intel/intel-lpmd)**: Intel's low power daemon. Taught it about a newer chip.
+- **[thermald](https://github.com/intel/thermal_daemon)** and **[intel-lpmd](https://github.com/intel/intel-lpmd)**: Intel's thermal and low power daemons. Taught them about a newer chip.
 - **[heron](https://github.com/tunjid/heron)**: a lovely Bluesky client for Android, iOS and desktop. Notification and video upload fixes.
 - **[gaze](https://github.com/GunduLabs/gaze)**: face login for Linux. Build cleanup.
 - **[mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp)**: baseball stats for your AI assistant. A few silent-failure fixes.
