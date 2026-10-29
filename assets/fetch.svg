@@ -68,7 +68,6 @@
     <text class="line" style="animation-delay:0.45s" y="158"><tspan class="k">NPU</tspan><tspan x="112" class="v">Intel, via OpenVINO </tspan><tspan class="d">(the vino projects)</tspan></text>
     <text class="line" style="animation-delay:0.50s" y="180"><tspan class="k">Protocol</tspan><tspan x="112" class="p">AT Protocol / Bluesky</tspan></text>
     <text class="line" style="animation-delay:0.55s" y="202"><tspan class="k">Packages</tspan><tspan x="112" class="v">3 (pypi), 2 (cargo), 1 (npm), 1 (composer)</tspan></text>
-    <text class="line" style="animation-delay:0.60s" y="224"><tspan class="k">Litter</tspan><tspan x="112" class="v">Robot online, drawer 12% </tspan><tspan class="d">(asher-cli)</tspan></text>
     <text class="line" style="animation-delay:0.65s" y="246"><tspan class="k">Theme</tspan><tspan x="112" class="v">vino dark </tspan><tspan class="d">[#0e0e10 / </tspan><tspan class="k">#56cc78</tspan><tspan class="d">]</tspan></text>
     <text class="line" style="animation-delay:0.70s" y="268"><tspan class="k">Baseball</tspan><tspan x="112" class="p">Blue Jays</tspan><tspan class="d">, tragically</tspan></text>
 
