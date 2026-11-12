@@ -16,14 +16,11 @@
 
 ## Hi, I'm Karan 👋
 
-Developer and mechanical engineer in Canada. I like things that run on your own machine,
-Linux on the desktop, Bluesky, and cats. Most of what I build is some mix of those.
+Developer and mechanical engineer in Canada.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## 🍷 vino
-
-Your laptop probably has an AI chip in it that nothing uses. These put it to work, and nothing leaves your machine.
 
 - **[vinoWhisper](https://github.com/karanshukla/vinoWhisper)**: live captions for whatever is playing, plus hold-a-key dictation.
 - **[vinoSpeak](https://github.com/karanshukla/vinoSpeak)**: text in, speech out.
